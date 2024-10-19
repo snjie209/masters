@@ -20,5 +20,12 @@ The repo is currently in its nascent stages (as of `2024-10-19`) but is organize
 1. The `proposal/` subdirectory has the proposal submitted on August 2024 which summarizes the research problem, potential methods, and a brief review of the literature. Would encourage readers to start there to gain some context.
 2. Then, explore the `notebooks/` main subdirectory. This has all the code used to explore the gene regulatory networks data and experiment various model configurations. At the time of this writing (`2024-10-19`), `KaiC_Diffrax.ipynb` uses the `diffrax` package to implement the NCDE framework. A prior library, namely `torchcde`, was also tried in the notebook `KaiC_torchcde.ipynb` but the package is no longer actively maintained, hence moving to the more recent `diffrax` package and newer notebook.
 3. The `data/` main subdirectory has data that is used by the `notebooks/` subdirectory. Only go here if you'd like to explore the data a bit further.
-4. 
+
+## Resources
+
+WIP
+
+## Questions?
+
+Contact Samba Njie at snjie1@jhu.edu or njie.samba209@gmail.com.
 
